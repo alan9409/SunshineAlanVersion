@@ -2,4 +2,9 @@
     <string name="app_name">Sunshine</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="today">Today, July 9</string>
+    <string name="temper_main">21\'</string>
+    <string name="temper_sub">8\'</string>
+    <string name="weather_cond">cloudy</string>
+    <string name="weather_list">Today - Sunny - 88 / 63</string>
 </resources>
